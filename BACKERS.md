@@ -17,8 +17,8 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 <!--special start-->
 
 <p align="center">
-  <a href="https://stdlib.com" target="_blank">
-    <img width="260px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/stdlib.png">
+  <a href="https://code.xyz/" target="_blank">
+    <img width="260px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/codexyz.png">
   </a>
 </p>
   
@@ -189,6 +189,16 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/kintohub.png">
         </a>
       </td>
+      <td align="center" valign="middle">
+        <a href="https://opteo.com/vue" target="_blank">
+          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/opteo.png">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://issue.sh" target="_blank">
+          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/issue-sh.png">
+        </a>
+      </td>
     </tr><tr></tr>
   </tbody>
 </table>
@@ -225,6 +235,12 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
   </tbody>
 </table>
 <!--silver end-->
+
+<h4 align="center">Silver via OpenCollective</h4>
+
+<a href="https://opencollective.com/vuejs/tiers/silver-sponsors/0/website" target="_blank" rel="noopener noreferrer"><img src="https://opencollective.com/vuejs/tiers/silver-sponsors/0/avatar.svg"></a>
+<a href="https://opencollective.com/vuejs/tiers/silver-sponsors/1/website" target="_blank" rel="noopener noreferrer"><img src="https://opencollective.com/vuejs/tiers/silver-sponsors/1/avatar.svg"></a>
+<a href="https://opencollective.com/vuejs/tiers/silver-sponsors/2/website" target="_blank" rel="noopener noreferrer"><img src="https://opencollective.com/vuejs/tiers/silver-sponsors/2/avatar.svg"></a>
 
 <h2 align="center">Bronze via Patreon</h2>
 
@@ -304,12 +320,13 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 
 <!--50 start-->
 - Wasim Khamlichi
-- errorrik
+- errorrik 
 - Alex Balashov
 - Konstantin Levinski
 - Evan Leonardi
 - Ernest Sim
 - Blaise Laflamme
+- Dilettant 
 <!--50 end-->
 
 <h2 align="center">Backers via Patreon</h2>
@@ -320,7 +337,6 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 - Keisuke KITA
 - Jack Barham
 - Santa Cruz
-- Tom Conlon
 - Simon East
 - Benjamin Listwon
 - Lars Andreas Ness
@@ -330,28 +346,22 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 - Kirk Lewis
 - Karol F
 - Miljan Aleksic
-- 叶解
-- Paul Straw
+- 叶解 
 - Jake Ingman
 - Barbara Liau
-- 4
+- 4 
 - Jarek Tkaczyk
-- Sean MacIsaac
-- Xiaojie LI
 - David Hess
 - Niannian Modisette
-- Dariusz Jastrzębski
 - Ivan Sieder
 - Matt Jones
 - Duncan J Kenzie
 - Mike Margerum
 - Guy Gavergun
-- Edithvale
+- Edithvale 
 - Intevation GmbH
 - Luiz Eduardo  Tanure Bacelar
-- Chengzhi Yin
 - Zoran Knezevic
-- James Simpson
 - Pascal Germain
 - Pierre Vanhulst
 - Jon Hobbs-Smith
@@ -362,12 +372,10 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 - Jeremy Tan
 - Jim Raden
 - Fille Åström
-- Nicholas Reid
 - Samuel Smith
 - Tyler Scott
 - Thong Yong Jun
 - Tai Shi Lgin
-- Bryan Gruneberg
 - Matias Verdier
 - Jamie McElwain
 - Vivekanandhan Natarajan
@@ -379,7 +387,6 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 - Eric Githinji
 - Chih-Hsuan, Fan
 - Jordan Oroshiba
-- Brian Jorden
 - Cliff Hess
 - Joe Ray Gregory
 - RADD Creative
@@ -399,31 +406,41 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 - Jere Sjöroos
 - Wakana Seki
 - David Ang
-- Dom
+- Dom 
 - Ben Hong
 - David Kaplan
 - John Cleveland
 - Jaeyoung Lee
-- Amor
+- Amor 
 - Tom Ootes
 - Andy Foster
 - Blake Campbell
 - Joe Cochran
 - Matt Sencenbaugh
 - The Commission Cafe, LLC.
-- Leon Seipp
 - Daniel Mattingley
-- HANDI PRIYONO
-- Zhenping WANG
 - Teon Ooi
 - Hannes Kochniß
 - Juan Bermudez
-- Seiji Komatsu
 - Alberto T. Payero Mota
 - Colt Borg
-- Luis F Rocha
 - Chris Calo
 - Milan Zivkovic
+- Christo Crampton
+- Jason Rys
+- Johnny Austin
+- Aaron Hung
+- Soichiro Isshiki
+- Tom Meagher
+- Rob Mellett
+- Abraham Arango
+- Marko Bošković
+- Chris Lind
+- Andrej 
+- Ed Linklater
+- Garion Herman
+- Chris Bemister
+- Anfrew Willis
 <!--10 end-->
 
 <h2 align="center">Backers via OpenCollective</h2>
